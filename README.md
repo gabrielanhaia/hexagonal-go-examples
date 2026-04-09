@@ -1,5 +1,11 @@
 # Hexagonal Go Examples
 
+<p align="center">
+  <a href="https://xgabriel.com/hexagonal-go">
+    <img src="cover.png" alt="Hexagonal Architecture in Go" width="250" />
+  </a>
+</p>
+
 Companion code repository for **[Hexagonal Architecture in Go: Ports, Adapters, and Services That Last](https://xgabriel.com/hexagonal-go)** by Gabriel Anhaia.
 
 ## Structure
